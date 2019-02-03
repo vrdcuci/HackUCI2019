@@ -3,10 +3,12 @@ Created by VR@UCI
 
 
 VR@UCI's Facebook Page: https://www.facebook.com/VRatUCI/
+
 VR@UCI's Discord: https://discord.gg/dRKF2Pz
 
 
 This project contains:
+
 -SteamVR Plugin for Unity version 1.2.3
 
 -Oculus Integration for Unity version 1.31
@@ -16,11 +18,15 @@ This project contains:
 -A Sample scene containing everything you need to start hacking in VR
 
 
+
+
 VRTK GitHub: https://github.com/thestonefox/VRTK
+
 VRTK Documentation: https://vrtoolkit.readme.io/docs
 
 
 The provided sample scene contains:
+
 -A plane
 
 -A Directional Light
