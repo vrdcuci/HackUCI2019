@@ -29,6 +29,7 @@ The provided sample scene contains:
 	The SteamVR SDK gameobject contains the play area for the SteamVR Platform, both the Oculus Rift and HTC Vive will run on SteamVR.
 	You can create a Oculus SDK gameobject if you would like your project to be able to run through the Oculus VR program, but this will only support the Oculus Rift.
 	The VR Simulator gameobject contains something that allows you to test your project without a VR headset. It allows you to simulate a headset and two controllers using a keyboard and mouse.
+
 -VRTK Scripts: This contains all the gameobjects that represent your hands, and player.
 	Any scripts that are designed to be housed on the hands should be placed on the hand gameobjects within this VRTK Scripts.
 	Any scripts for locomotion, body presence, or the play area should be placed on the Player gameobject within VRTK Scripts.
